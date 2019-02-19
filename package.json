@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-nodejs-desafio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lcoalves/bootcamp-nodejs-desafio1.git",
+  "author": "Lucas Alves <lucas.alves@udf.org.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
